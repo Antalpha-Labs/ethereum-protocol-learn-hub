@@ -7,8 +7,6 @@ I'm a dapp developer, writing some solidity code, and I find it necessary to hav
 - You can better integrate yourself into the ecological community. Blockchain is not just a set of infrastructure, but also a community and ecosystem. We understand the underlying protocol, which allows us to establish a good relationship with the entire community
 - It's fun! Blockchain protocols are designed by a group of smart people, and we learn great ideas, keep up with the latest research, and communicate with the best minds in the world, which is an interesting experience in itself.
 
-## What
-Todo
+## Links
+- [Curated list of Ethereum infographics - L1, L2, Oracles, DeFi](https://github.com/dgeorgiev06/awesome-ethereum-diagrams)
 
-## Want to join?
-Todo
